@@ -4,9 +4,9 @@
 
 This repository contains a IVR (Interactive Voice Response) system prototype powered by the LLM. The project demonstrates an end-to-end workflow that:
 - Transcribes user audio input,
-- Processes the text using the Falcon language model,
+- Processes the text using a LLM,
 - Generates a response, and
-- Converts that response back into speech.
+- Converts that response back into speech. 
 
 The system is designed to run in a Python environment, making it easy to prototype and test conversational interactions in an online business context.
 
