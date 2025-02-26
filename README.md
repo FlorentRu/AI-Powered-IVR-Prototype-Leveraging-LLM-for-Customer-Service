@@ -50,7 +50,7 @@ The LLM processed this query and returned a list of hardware specifications:
 - Intel HD Graphics 4000  
 - DVD-RW  
 
-The response illustrates the system’s capability to generate structured output. This response can be refined when I integrate business-specific data (Amazon, Ebay or similar) and adjusting the prompt engineering.
+The response illustrates the system’s capability to generate structured output. This response can be refined when I integrate business-specific data (such as Amazon, Ebay or similar) and adjusting the prompt engineering.
 
 ## Architecture
 
