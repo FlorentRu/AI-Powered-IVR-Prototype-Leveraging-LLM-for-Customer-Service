@@ -8,7 +8,7 @@ This repository contains a IVR (Interactive Voice Response) system prototype pow
 - Generates a response, and
 - Converts that response back into speech.
 
-The system is designed to run in a Google Colab environment, making it easy to prototype and test conversational interactions in an online business context.
+The system is designed to run in a Python environment, making it easy to prototype and test conversational interactions in an online business context.
 
 ## Table of Contents
 
