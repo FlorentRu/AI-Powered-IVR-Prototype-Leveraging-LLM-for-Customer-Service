@@ -20,7 +20,7 @@ The system is designed to run in a Python environment, making it easy to prototy
 
 ## Overview
 
-This project serves as a prototype IVR system for online business applications—think customer service for platforms like Amazon, Ebay or similar. For example, when asked, "Are there any special deals or discounts on electronics today?", the system produced the following response:
+This project serves as a prototype IVR system for online business applications, think customer service for platforms like Amazon, Ebay or similar. For example, when asked, "Are there any special deals or discounts on electronics today?", the system produced the following response:
 
 - 1.6 GHz Intel Core i5-3210M  
 - 4 GB RAM  
