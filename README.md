@@ -6,7 +6,7 @@ This repository contains a IVR (Interactive Voice Response) system prototype pow
 - Transcribes user audio input,
 - Processes the text using a LLM,
 - Generates a response, and
-- Converts that response back into speech. 
+- Converts that response back into speech. (Answer of the Model file you can download to listen)
 
 The system is designed to run in a Python environment, making it easy to prototype and test conversational interactions in an online business context.
 
