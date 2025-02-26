@@ -1,6 +1,6 @@
 # AI Powered IVR Prototype Leveraging LLM for Customer Service
 
-# IVR System Powered by Falcon LLM
+# IVR System Powered by LLM
 
 This repository contains an experimental IVR (Interactive Voice Response) system prototype powered by the Falcon LLM. The project demonstrates an end-to-end workflow that:
 - Transcribes user audio input,
