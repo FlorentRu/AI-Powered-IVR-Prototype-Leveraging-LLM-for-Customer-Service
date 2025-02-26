@@ -2,7 +2,7 @@
 
 # IVR System Powered by LLM
 
-This repository contains an experimental IVR (Interactive Voice Response) system prototype powered by the Falcon LLM. The project demonstrates an end-to-end workflow that:
+This repository contains a IVR (Interactive Voice Response) system prototype powered by the LLM. The project demonstrates an end-to-end workflow that:
 - Transcribes user audio input,
 - Processes the text using the Falcon language model,
 - Generates a response, and
